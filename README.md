@@ -163,3 +163,4 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 见powerpoint/aliasing and anti-aliasing.ppt
 
+https://www.colabug.com/2098676.html
