@@ -174,3 +174,5 @@ http://www.glprogramming.com/red/
 
 ### **一个很好的题库**
 https://www.student.cs.uwaterloo.ca/~cs488/Fall2017/q.pdf
+
+berkeley/CG exam: https://hkn.eecs.berkeley.edu/exams/course/cs/184
