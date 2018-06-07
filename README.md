@@ -185,4 +185,34 @@ berkeley/CG exam: https://hkn.eecs.berkeley.edu/exams/course/cs/184
 https://courses.cs.washington.edu/courses/csep557/10au/lectures/triangle_intersection.pdf
 2. **如何根据如何光线和法线计算反射光线(Phong 光照模型)**
 见课本 P275
-3. 
+3. **比较有用的课后习题**
+2.9,2.11,2.19,3.1,3.4,3.7,3.8,3.9,3.18,4.1,4.7,4.17,5.2,5.3,5.7,6.1,6.2,6.3,6.9,6.12,6.13,7.1,7.3
+
+### **闲着没事可以看的东西**
+1. 计算几何(听过的最好的课程)
+http://www.xuetangx.com/courses/course-v1:TsinghuaX+70240183x_1+sp/about
+2. 线性代数的本质(看完这个应该坐标系变换很容易理解了)
+https://www.bilibili.com/video/av5977466/
+
+
+### **常用英文词汇**
+1.hexagon 六边形
+2.Specular surface 镜面
+3.Diffuse surface 漫反射
+4.opaque 不透明的
+5.angle of incidence：入射角
+6.angle of reflection: 反射角
+7.jaggedness 锯齿
+8.oblique 倾斜的
+9.Singularities 奇点
+10.monochromatic 单色的
+11.sphere, cylinder, or cube 球面，圆柱面，立方体
+12.dependent variable 因变量
+13.independent variable 自变量
+14.curvature 曲率
+15.refraction 折射
+16.oblique 倾斜的
+17.Gouraud
+18.recusion: 递归
+19.object viewer light materials
+
