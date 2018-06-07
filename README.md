@@ -140,7 +140,7 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 > 凹凸映射: https://www.cnblogs.com/lancidie/archive/2010/11/05/1869979.html
 
-### **空间数据的划分与查找**
+### **空间数据的划分与查找（四叉，八叉，kd-tree等）**
 
 > http://insaneguy.me/attachments/spatial_ds--bsp_tree-octree-kd-tree.pdf
 
@@ -154,3 +154,12 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 ### **光线追踪**
 
 原理+实现: P559-P565
+
+### **曲线和曲面**
+
+见powerpoint/AngelCG36&37.ppt
+
+### **走样与反走样**
+
+见powerpoint/aliasing and anti-aliasing.ppt
+
