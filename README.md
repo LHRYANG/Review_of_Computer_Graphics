@@ -112,6 +112,12 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 看课本。
 
-> **多边形shading方法：**
+3. **多边形shading方法：**
+>  flat shading 
 
-1. 
+>  gouraud shading
+
+>  phong shading 
+
+这三种方法读课本足以明白。
+
