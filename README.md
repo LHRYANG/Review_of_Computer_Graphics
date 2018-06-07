@@ -164,3 +164,10 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 见powerpoint/aliasing and anti-aliasing.ppt
 
 https://www.colabug.com/2098676.html
+
+### **编程**
+1. **opengl 核心模式编程**
+https://learnopengl-cn.github.io/intro/
+
+2. **立即渲染模式编程**
+http://www.glprogramming.com/red/
