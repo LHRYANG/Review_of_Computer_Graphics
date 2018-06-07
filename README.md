@@ -71,8 +71,26 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 ### **直线/圆生成与多边形填充算法**
 
-> 1. **DDA**
+> 1. **DDA-line generation**
 
+> https://www.tutorialspoint.com/computer_graphics/line_generation_algorithm.htm
 
+> 2.  **Bresenham-line generation**
+
+> https://www.tutorialspoint.com/computer_graphics/line_generation_algorithm.htm
+
+> 一个例子: https://wenku.baidu.com/view/af9fa8f15fbfc77da269b1ad.html
+
+> 3. **MidPoint-line generation**
+
+> http://www.mat.univie.ac.at/~kriegl/Skripten/CG/node25.html
+
+> 4. **Bresenham-circle generation**
+
+> http://run.usc.edu/cs420-s15/recitations/circleRasterization.pdf
+
+> 5. **MidPoint-circle generation**
+
+> http://www.mat.univie.ac.at/~kriegl/Skripten/CG/node27.html
 
 
