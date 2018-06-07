@@ -33,6 +33,8 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
   
 > http://www.360doc.com/content/10/0917/09/1066008_54279529.shtml
 
+> https://blog.csdn.net/hiramtan/article/details/9020419
+
 2. **关于glLookAt()和glPerspective() 函数的解释**
 
 > https://blog.csdn.net/ivan_ljf/article/details/8764737
@@ -176,3 +178,11 @@ http://www.glprogramming.com/red/
 https://www.student.cs.uwaterloo.ca/~cs488/Fall2017/q.pdf
 
 berkeley/CG exam: https://hkn.eecs.berkeley.edu/exams/course/cs/184
+
+
+### **各种小知识点比如求交计算之类的**
+1. **Ray-triangle intersection**
+https://courses.cs.washington.edu/courses/csep557/10au/lectures/triangle_intersection.pdf
+2. **如何根据如何光线和法线计算反射光线(Phong 光照模型)**
+见课本 P275
+3. 
