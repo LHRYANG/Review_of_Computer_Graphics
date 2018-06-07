@@ -121,3 +121,36 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 这三种方法读课本足以明白。
 
+一个关于phong模型 和改进phong模型区别的很好的例子：
+> https://blog.csdn.net/wangdingqiaoit/article/details/52964990
+
+4 **相关函数使用**
+> http://blog.sina.com.cn/s/blog_6163bdeb0100p01x.html
+
+### **纹理映射**
+1. **三种映射方法**
+> 纹理映射
+> 环境映射
+> 凹凸映射
+
+> 纹理映射的一堆坐标的关系....
+> https://blog.csdn.net/wangdingqiaoit/article/details/51457675 
+
+> 环境映射:https://blog.csdn.net/u010223072/article/details/45193283
+
+> 凹凸映射: https://www.cnblogs.com/lancidie/archive/2010/11/05/1869979.html
+
+### **空间数据的划分与查找**
+
+> http://insaneguy.me/attachments/spatial_ds--bsp_tree-octree-kd-tree.pdf
+
+### **隐藏面消除**
+
+1. z-buffer 算法 实现以及时间复杂度
+2. 画家算法
+3  深度排序
+见课本 p331(通读一遍就懂了)
+
+### **光线追踪**
+
+原理+实现: P559-P565
