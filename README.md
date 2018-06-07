@@ -18,7 +18,8 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 下面就每个部分的重点整理出一些高质量的链接来帮助理解与复习
 
 ### **顶点处理模块**
-> 1. **关于坐标变换**
+
+1. **关于坐标变换**
 
 > 模型坐标系到世界坐标系再到相机坐标系是如何处理的？
   
@@ -32,24 +33,24 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
   
 > http://www.360doc.com/content/10/0917/09/1066008_54279529.shtml
 
-> 2. **关于glLookAt()和glPerspective() 函数的解释**
+2. **关于glLookAt()和glPerspective() 函数的解释**
 
 > https://blog.csdn.net/ivan_ljf/article/details/8764737
 
 > https://blog.csdn.net/augusdi/article/details/19936239
 
-> 3. **关于图元绘制**
+3. **关于图元绘制**
 
 > http://www.mamicode.com/info-detail-1139707.html
 
-> 4. **关于四元数**
+4. **关于四元数**
 
 > https://www.zhihu.com/question/23005815 第二个回答
 
 
 ### **裁剪模块**
 
-> 1. **直线裁剪:**
+1. **直线裁剪:**
 
 > **Cohen-Sutherland Algorithm**
 
@@ -61,7 +62,7 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
     
 一个关于两个算法的链接 https://blog.csdn.net/pleasecallmewhy/article/details/8393445    
     
-> 2. **多边形裁剪:**
+2. **多边形裁剪:**
 
 > **sutherland-hodgman algorithm**
 
@@ -71,26 +72,46 @@ https://inspirit.net.in/books/academic/Interactive%20Computer%20Graphics.pdf
 
 ### **直线/圆生成与多边形填充算法**
 
-> 1. **DDA-line generation**
+1. **DDA-line generation**
 
 > https://www.tutorialspoint.com/computer_graphics/line_generation_algorithm.htm
 
-> 2.  **Bresenham-line generation**
+2.  **Bresenham-line generation**
 
 > https://www.tutorialspoint.com/computer_graphics/line_generation_algorithm.htm
 
 > 一个例子: https://wenku.baidu.com/view/af9fa8f15fbfc77da269b1ad.html
 
-> 3. **MidPoint-line generation**
+3. **MidPoint-line generation**
 
 > http://www.mat.univie.ac.at/~kriegl/Skripten/CG/node25.html
 
-> 4. **Bresenham-circle generation**
+4. **Bresenham-circle generation**
 
 > http://run.usc.edu/cs420-s15/recitations/circleRasterization.pdf
 
-> 5. **MidPoint-circle generation**
+5. **MidPoint-circle generation**
 
 > http://www.mat.univie.ac.at/~kriegl/Skripten/CG/node27.html
 
+6. **奇偶规则和非零环绕树规则**
 
+>  https://blog.csdn.net/mmogega/article/details/53066735
+
+7. **Scan-line filling**
+
+> https://blog.csdn.net/u013044116/article/details/49737585
+
+> https://www.jianshu.com/p/d9be99077c2b
+
+### **光照模型**
+
+1. **phong 模型**
+
+2. **改进的phong模型**
+
+看课本。
+
+> **多边形shading方法：**
+
+1. 
