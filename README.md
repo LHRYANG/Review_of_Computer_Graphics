@@ -171,3 +171,6 @@ https://learnopengl-cn.github.io/intro/
 
 2. **立即渲染模式编程**
 http://www.glprogramming.com/red/
+
+### **一个很好的题库**
+https://www.student.cs.uwaterloo.ca/~cs488/Fall2017/q.pdf
